@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Sidebar, Topbar } from "./components/index";
-import { Home, UserList } from "./pages/index";
+import { Home, UserList, User } from "./pages/index";
 import "./App.css";
 
 function App() {
@@ -12,6 +12,7 @@ function App() {
         <Routes>
           <Route exact path="/" element={ <Home /> } />
           <Route path="/users" element={ <UserList /> } />
+          <Route path="/user/:userId" element={ <User /> } />
         </Routes>
       </div>
     </Router>
