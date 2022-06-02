@@ -125,3 +125,79 @@ export const userData = [
       transaction: "$120",
     },
   ];
+
+
+  export const productRows = [
+    {
+      id: 1,
+      name: "Jon Snow",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 2,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 3,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 4,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 5,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 6,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 7,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+    {
+      id: 8,
+      name: "apple airpods",
+      img:
+       "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      stock: 123,
+      status: "active",
+      price: "$120",
+    },
+  ];
